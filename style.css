@@ -40,7 +40,9 @@
     border-style: solid;
     border-top: none;
     border-right: none; 
-    text-decoration-color: white; 
+}
+#beef{
+    color: white;
 }
 #part-title3{
     background-color: #E5D198;
