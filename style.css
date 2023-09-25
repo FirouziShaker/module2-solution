@@ -1,0 +1,51 @@
+#header-title{
+    text-align: center;
+}
+.items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+
+.item{
+    width: 30%;
+    height: 200px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    border: 5px;
+    border-color: black;
+    background-color:#85837d;
+    border-radius: 5px;
+
+}
+
+#part-title1{
+    background-color: blue;
+    width: 60px;
+    float: right;
+    text-align: center;
+    
+    
+}
+#part-title2{
+    background-color: brown;
+    width: 60px;
+    float: right;
+    text-align: center;
+    
+    
+}
+#part-title3{
+    background-color: yellow;
+    width: 60px;
+    float: right;
+    text-align: center;
+    
+    
+}
+.partOfText{
+    padding: 10px;
+}
