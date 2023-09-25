@@ -39,7 +39,8 @@
     font-weight: bold;
     border-style: solid;
     border-top: none;
-    border-right: none;  
+    border-right: none; 
+    text-decoration-color: white; 
 }
 #part-title3{
     background-color: #E5D198;
@@ -52,9 +53,7 @@
     border-right: none;
       
 }
-#beef{
-    color: white;
-}
+
 .partOfText{
     padding: 10px;    
 }
